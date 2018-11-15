@@ -7,4 +7,4 @@ Cocos Creator 2.0
 ### web版体验
 [HotDog](http://18.188.100.17:8080/hotdog/)
 
-![](https://github.com/wingsrao/Hotdog/blob/master/wsc.png)
+![](https://github.com/wingsrao/Hotdog/blob/master/wsc1.PNG)
